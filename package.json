@@ -1,0 +1,12 @@
+{
+  "name": "remarker",
+  "version": "1.0.0",
+  "description": "A from-scratch Markdown parser/renderer. Drop-in replacement for marked.js with extra features (colors, callouts, media embeds, syntax highlighting, spoilers, and more).",
+  "main": "remarker.js",
+  "files": [
+    "remarker.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "license": "SEE LICENSE IN LICENSE"
+}
